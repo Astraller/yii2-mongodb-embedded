@@ -1,25 +1,25 @@
 {
-    "name": "astraller/yii2-mongodb-embedded",
-    "type": "yii2-extension",
-    "minimum-stability": "dev",
-    "autoload": {
-        "psr-4": {
-            "astraller\\yii2-mongodb-embedded\\": ""
-        }
-    },
-    "authors": [
-        {
-            "name": "Alexey Afonin",
-            "email": "zeratustra@gmail.com"
-        }
-    ],
-    "require": {
-        "yiisoft/yii2-mongodb": "^2.1"
-    },
-    "repositories": [
-    {
-        "type": "path",
-        "url": "https://github.com/Astraller/yii2-mongo-embedded.git"
+  "name": "astraller/yii2-mongodb-embedded",
+  "type": "yii2-extension",
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "astraller\\yii2-mongodb-embedded\\": ""
     }
-],
+  },
+  "authors": [
+    {
+      "name": "Alexey Afonin",
+      "email": "zeratustra@gmail.com"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2-mongodb": "^2.1"
+  },
+  "repositories": [
+    {
+      "type": "path",
+      "url": "https://asset-packagist.org"
+    }
+  ]
 }
