@@ -1,6 +1,6 @@
 <?php
 
-namespace app\components;
+namespace astraller\yii2_mongodb_embedded;
 
 use \yii\mongodb\ActiveRecord;
 

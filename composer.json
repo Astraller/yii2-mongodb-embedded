@@ -6,7 +6,7 @@
         "psr-4": {
             "astraller\\yii2-mongodb-embedded\\": ""
         }
-    }
+    },
     "authors": [
         {
             "name": "Alexey Afonin",
