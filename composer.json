@@ -1,7 +1,7 @@
 {
   "name": "astraller/yii2-mongodb-embedded",
   "type": "yii2-extension",
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "autoload": {
     "psr-4": {
       "astraller\\yii2-mongodb-embedded\\": ""
