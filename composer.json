@@ -4,7 +4,7 @@
   "minimum-stability": "stable",
   "autoload": {
     "psr-4": {
-      "astraller\\yii2-mongodb-embedded\\": ""
+      "astraller\\mongodb\\": ""
     }
   },
   "authors": [

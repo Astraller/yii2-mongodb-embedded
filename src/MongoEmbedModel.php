@@ -1,6 +1,6 @@
 <?php
 
-namespace astraller\yii2_mongodb_embedded;
+namespace astraller\mongodb;
 
 use yii\base\Model;
 
